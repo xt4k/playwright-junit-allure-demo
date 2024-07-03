@@ -22,18 +22,16 @@
 
 
 ## Allure report
-
-![image](https://user-images.githubusercontent.com/38681283/120564585-ed531580-c413-11eb-8515-40979492ec24.png)
-
-## :arrow_forward: [Spotify Allure_TestOps][2]
+![image](https://github.com/xt4k/playwright-junit-allure-demo/assets/38681283/8d334665-af01-42b9-be82-437a4c1d438d)
 
 ## Allure screenshots
+![image](https://github.com/xt4k/playwright-junit-allure-demo/assets/38681283/9655631d-93ca-40a0-bd98-fe2d42c1f3cc)
+![image](https://github.com/xt4k/playwright-junit-allure-demo/assets/38681283/0fe55c65-2db7-4119-9828-9928a2684b29)
+![image](https://github.com/xt4k/playwright-junit-allure-demo/assets/38681283/85c84531-6555-4a5a-9d3f-36c7f9238cbc)
+![image](https://github.com/xt4k/playwright-junit-allure-demo/assets/38681283/b66fb1e7-2ddb-4c2a-8863-01fc3f32e846)
 
-![image](https://user-images.githubusercontent.com/38681283/120640087-c0861900-c47a-11eb-891e-34382f8df197.png)
-![image](https://user-images.githubusercontent.com/38681283/120640222-e0b5d800-c47a-11eb-9fc9-15d4bce0180c.png)
-![image](https://user-images.githubusercontent.com/38681283/120640315-00e59700-c47b-11eb-81e5-b46814df3ea2.png)
-![image](https://user-images.githubusercontent.com/38681283/120640404-1eb2fc00-c47b-11eb-8630-5e78fb6e5c92.png)
-![image](https://user-images.githubusercontent.com/38681283/120641333-2921c580-c47c-11eb-9b68-25280b4f8e6e.png)
+
+![image](https://github.com/xt4k/playwright-junit-allure-demo/assets/38681283/5be72d50-42f5-4478-95f2-9f0aa0365afa)
 
 
 
