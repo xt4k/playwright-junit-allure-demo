@@ -11,7 +11,7 @@
 * [Technology stack](#technology-stack)
 * [Allure report in Jenkins](#allure-report-in-jenkins)
 * [Last screenshot for live and emulated phones accordingly](#last-screenshot-for-live-and-emulated-phones-accordingly)
-* [Allure screenshots](## Allure screenshots)
+* [Allure screenshots](#allure-screenshots)
 
 
 ## Technology stack
