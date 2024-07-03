@@ -1,5 +1,6 @@
+# Playwright demo TAF project (test automation framework)
 ![image](https://github.com/xt4k/playwright-junit-allure-demo/assets/38681283/f075922a-0ad8-4238-9aa6-402bd5b93bca)
-## Playwright demo TAF project (test automation framework)
+
 
 ##### Done in frame of self-education after Playwright training graduating
 
