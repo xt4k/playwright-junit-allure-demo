@@ -1,16 +1,14 @@
 # Playwright demo TAF project (test automation framework)
 <img src="https://github.com/xt4k/playwright-junit-allure-demo/assets/38681283/52b31b88-8996-47eb-a8ef-551fae1d70e6" width="100" height="100"> <img src="https://github.com/xt4k/playwright-junit-allure-demo/assets/38681283/0143778f-137a-4311-8d9c-65786b030507" width="60" height="80"> 
 <img src="https://github.com/xt4k/playwright-junit-allure-demo/assets/38681283/ffac15e8-7d56-4a8c-92c6-05d0f853d9c5" width="80" height="100">
-                                                             
-
-
+ 
 ##### Done in frame of self-education after Playwright training graduating
-
 
 ## TABLE OF CONTENT
 * [Technology stack](#technology-stack)
 * [Allure report](#allure-report)
 * [Allure screenshots](#allure-screenshots)
+* [Test run in IDEA](#test-run-in-idea)
 
 ## Technology stack
 | GitHub | IDEA | Java | Junit5 | Gradle |        Playwright      |    Allure   | 
@@ -26,12 +24,7 @@
 ![image](https://github.com/xt4k/playwright-junit-allure-demo/assets/38681283/85c84531-6555-4a5a-9d3f-36c7f9238cbc)
 ![image](https://github.com/xt4k/playwright-junit-allure-demo/assets/38681283/b66fb1e7-2ddb-4c2a-8863-01fc3f32e846)
 
-
+## Test run in IDEA
 ![image](https://github.com/xt4k/playwright-junit-allure-demo/assets/38681283/5be72d50-42f5-4478-95f2-9f0aa0365afa)
 
 [![Telegram](https://img.shields.io/badge/-Telegram-0b0a1a?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/yuriy_logvinov)
-
-[1]: https://jenkins.autotests.cloud/job/spotify_auto_diploma
-
-[2]: https://allure.autotests.cloud/project/204/launches
-
