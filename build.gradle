@@ -55,8 +55,6 @@ dependencies {
             "io.qameta.allure.gradle.allure:allure-plugin:2.11.2",
             "io.qameta.allure:allure-junit-platform:${allureVersion}",
 
-            //  "com.google.inject:guice:${guiceVer}",
-            // 'org.awaitility:awaitility:4.2.0',
     )
 
     compileOnly "org.projectlombok:lombok:${lombokVersion}"
@@ -64,7 +62,6 @@ dependencies {
     testAnnotationProcessor("org.projectlombok:lombok:${lombokVersion}")
     testCompileOnly "org.projectlombok:lombok:${lombokVersion}"
     runtimeOnly "org.aspectj:aspectjweaver:${aspectjVersion}"
-
 
     testImplementation(
 
