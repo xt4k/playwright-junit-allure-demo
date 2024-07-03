@@ -7,7 +7,7 @@
 ## TABLE OF CONTENT
 * [Technology stack](#technology-stack)
 * [Allure report](#allure-report)
-* [Allure screenshots](#allure-screenshots)
+* [Report pages](#report-pages)
 * [Test run in IDEA](#test-run-in-idea)
 
 ## Technology stack
@@ -18,7 +18,7 @@
 ## Allure report
 ![image](https://github.com/xt4k/playwright-junit-allure-demo/assets/38681283/8d334665-af01-42b9-be82-437a4c1d438d)
 
-## Allure screenshots
+## Report pages
 ![image](https://github.com/xt4k/playwright-junit-allure-demo/assets/38681283/9655631d-93ca-40a0-bd98-fe2d42c1f3cc)
 ![image](https://github.com/xt4k/playwright-junit-allure-demo/assets/38681283/0fe55c65-2db7-4119-9828-9928a2684b29)
 ![image](https://github.com/xt4k/playwright-junit-allure-demo/assets/38681283/85c84531-6555-4a5a-9d3f-36c7f9238cbc)
