@@ -1,5 +1,5 @@
 # Playwright demo TAF project (test automation framework)
-![image](https://github.com/xt4k/playwright-junit-allure-demo/assets/38681283/f075922a-0ad8-4238-9aa6-402bd5b93bca)<img src="https://github.com/xt4k/playwright-junit-allure-demo/assets/38681283/2314cdc1-c905-417d-8f8d-a4d43bd060eb" width="60" height="60"><img src="https://github.com/xt4k/playwright-junit-allure-demo/assets/38681283/52b31b88-8996-47eb-a8ef-551fae1d70e6" width="100" height="100">
+![image](https://github.com/xt4k/playwright-junit-allure-demo/assets/38681283/f075922a-0ad8-4238-9aa6-402bd5b93bca)                 <img src="https://github.com/xt4k/playwright-junit-allure-demo/assets/38681283/2314cdc1-c905-417d-8f8d-a4d43bd060eb" width="60" height="60">                           <img src="https://github.com/xt4k/playwright-junit-allure-demo/assets/38681283/52b31b88-8996-47eb-a8ef-551fae1d70e6" width="100" height="100">
 
 
 
