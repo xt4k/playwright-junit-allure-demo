@@ -157,6 +157,12 @@ task runFailedTest(type: Test) {
     }
 }
 
+task runRegressionTest(type: Test) {
+    useJUnitPlatform {
+        includeTags 'regression'
+    }
+}
+
 
 tasks.withType(JavaCompile) {
     options.encoding = 'UTF-8'

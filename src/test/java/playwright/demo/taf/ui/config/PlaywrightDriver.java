@@ -4,6 +4,8 @@ package playwright.demo.taf.ui.config;
 import com.microsoft.playwright.*;
 import io.qameta.allure.Step;
 
+import java.nio.file.Paths;
+
 public class PlaywrightDriver {
     public static PlaywrightDriver playwrightDriver;
     public static ThreadLocal<Playwright> pw = new ThreadLocal<>();
@@ -23,7 +25,7 @@ public class PlaywrightDriver {
         browser = createBrowser();
         br.set(browser);
 
-        browserContext = browser.newContext();
+        browserContext = startVideoRecoding(browser);//browser.newContext();
         startTracing();
         bc.set(browserContext);
 
@@ -91,13 +93,18 @@ public class PlaywrightDriver {
         options.setHeadless(config.headless());
         return browserType.launch(options);
     }
+    public BrowserContext startVideoRecoding(Browser browser) {
+        return browser.newContext(new Browser.NewContextOptions().setRecordVideoDir(Paths.get("./build/videos/")));
+    }
+
 
     public void startTracing() {
-        browserContext.tracing()
+    browserContext.tracing()
                 .start(new Tracing.StartOptions()
                         .setScreenshots(true)
                         .setSnapshots(true)
                         .setSources(false));
+
     }
 
 }

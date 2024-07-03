@@ -27,7 +27,7 @@ import static playwright.demo.taf.ui.config.PlaywrightDriver.quitPlaywright;
 
 public abstract class TestBase {
     protected static final Logger log = LoggerFactory.getLogger(TestBase.class);
-    private final String shotName = "-%s".formatted(new Date().toInstant()).replace(":", "-");
+    private final String fileName = new Date().toInstant().toString().replace(":", "-");
     protected MainPage mainPage = new MainPage();
 
     @RegisterExtension
@@ -35,8 +35,8 @@ public abstract class TestBase {
             context -> {
                 Optional<Throwable> exception = context.getExecutionException();
                 if (exception.isPresent()) {
-                    Attach.screenshotAs("Screenshot-fail-" + shotName);
-                    Attach.stopTracing("Trace-fail-" + shotName);
+                    Attach.screenshotAs("Screenshot-fail-" + fileName);
+                    Attach.stopTracing("Trace-fail-" + fileName);
                 }
             };
 
@@ -71,7 +71,7 @@ public abstract class TestBase {
 
     @AfterEach()
     public void afterEach() {
-        Attach.stopTracing("Trace-" + shotName);
+        Attach.stopTracing("Trace-" + fileName);
         closeBrowser();
     }
 }

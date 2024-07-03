@@ -31,8 +31,6 @@ import static org.apache.commons.lang3.CharSet.EMPTY;
 @Issue("AUTH-456")
 @TmsLink("TMS-789")
 public class SearchProductTest extends TestBase {
-
-
     @ParameterizedTest
     @CsvSource({
             "Apple iPhone 15, true",
@@ -58,7 +56,6 @@ public class SearchProductTest extends TestBase {
                     .as(description)
                     .isEmpty();
         }
-
     }
 
     @Test
@@ -70,7 +67,6 @@ public class SearchProductTest extends TestBase {
 
         List<String> actualPrices = mainPage.searchProduct(searchCriteria)
                 .getProductPrices();
-        log.info("all for no: " + actualPrices.size());
         log.info("prices: " + actualPrices);
 
         Assertions.assertThat(actualPrices)
