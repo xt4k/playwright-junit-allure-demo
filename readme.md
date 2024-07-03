@@ -9,9 +9,9 @@
 
 ## TABLE OF CONTENT
 * [Technology stack](#technology-stack)
-* [Last screenshot for live and emulated phones accordingly](#last-screenshot-for-live-and-emulated-phones-accordingly)
-* [Spotify job screenshot](#spotify-job-screenshot)
 * [Allure report in Jenkins](#allure-report-in-jenkins)
+* [Last screenshot for live and emulated phones accordingly](#last-screenshot-for-live-and-emulated-phones-accordingly)
+* [Allure screenshots](## Allure screenshots)
 
 
 ## Technology stack
@@ -33,8 +33,6 @@
 
 
 ![image](https://github.com/xt4k/playwright-junit-allure-demo/assets/38681283/5be72d50-42f5-4478-95f2-9f0aa0365afa)
-
-
 
 [![Telegram](https://img.shields.io/badge/-Telegram-0b0a1a?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/yuriy_logvinov)
 
