@@ -1,5 +1,4 @@
-![image](https://user-images.githubusercontent.com/38681283/120556173-d0631600-c404-11eb-894a-6c7ec19704ca.png)
-
+![image](https://github.com/xt4k/playwright-junit-allure-demo/assets/38681283/f075922a-0ad8-4238-9aa6-402bd5b93bca)
 ## Playwright demo TAF project (test automation framework)
 
 ##### Done in frame of self-education after Playwright training graduating
@@ -24,6 +23,8 @@
 | GitHub | IDEA | Java | Junit5 | Gradle |        Playwright      |    Allure   | 
 |:-----:|:-----:|:----:|:------:|:------:|:----------------------:|:-----------:|
 |<img src="https://user-images.githubusercontent.com/38681283/120561870-048f0480-c40e-11eb-9ff8-c155f9d617c4.png" width="40" height="40"> |<br/> <img src="https://user-images.githubusercontent.com/38681283/120561799-e88b6300-c40d-11eb-91ba-d4103ef6d4b5.png" width="40" height="40"> | <img src="https://user-images.githubusercontent.com/38681283/120561837-f7721580-c40d-11eb-8590-7b3b0b5eb50d.png" width="40" height="40"> | <img src="https://user-images.githubusercontent.com/38681283/120562013-43bd5580-c40e-11eb-926f-1b8d3dc9e965.png" width="40" height="40"> | <img src="https://user-images.githubusercontent.com/38681283/120562398-fbeafe00-c40e-11eb-9fe7-3a641bf7115c.png" width="40" height="40"> | <img src="https://user-images.githubusercontent.com/38681283/120562458-PPPPPPPPPPPPP-11eb-8ce8-2eb023f3e24f.png" width="40" height="40"> | <img src="https://user-images.githubusercontent.com/38681283/120562749-b5e26a00-c40f-11eb-91d9-641e254428c9.png" width="40" height="40"> | <img src="https://user-images.githubusercontent.com/38681283/120562827-e0342780-c40f-11eb-9430-05ae54f145b1.png" width="40" height="40"> |
+
+
 
 
 ## Test Levels:
