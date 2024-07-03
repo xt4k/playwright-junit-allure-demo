@@ -93,13 +93,14 @@ public class PlaywrightDriver {
         options.setHeadless(config.headless());
         return browserType.launch(options);
     }
+
     public BrowserContext startVideoRecoding(Browser browser) {
         return browser.newContext(new Browser.NewContextOptions().setRecordVideoDir(Paths.get("./build/videos/")));
     }
 
 
     public void startTracing() {
-    browserContext.tracing()
+        browserContext.tracing()
                 .start(new Tracing.StartOptions()
                         .setScreenshots(true)
                         .setSnapshots(true)
